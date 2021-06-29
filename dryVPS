@@ -1,0 +1,2 @@
+#耗尽VPS流量
+bash <(curl -s https://raw.githubusercontent.com/mixool/script/master/wget.sh) 5000000
